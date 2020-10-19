@@ -8,7 +8,7 @@ tags: ["Kubernetes","Deployment","Distributed Systems"]
 
 ### Introduction
 
-This blog targets the way modern applications are deployed and consumed. It introduces the importance of Kubernetes which is a container Orchestration tool on a basic level and how it is making the job of Developers more simpler.
+This blog targets the way modern applications are deployed and consumed. It introduces the importance of [Kubernetes](https://kubernetes.io/) which is a container Orchestration tool on a basic level and how it is making the job of Developers more simpler.
 
 ### What is Kubernetes
 
