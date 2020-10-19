@@ -29,7 +29,7 @@ Kubernetes (also known as k8s) is a container orchestration tool which is widely
 
 ### Technical Aspect
 
-Kubernetes is an open-source container orchestration tool which was developed by Google in 2014. It is designed as a highly available cluster of computers that are connected to work as a single unit. This level of abstraction allows us to deploy application without thinking much about the machines on which application would run on. *Kubernetes role is to automate the distribution of application containers on computer clusters in an efficient way* (**NOTE**: If you are not familiar with application containers then read about it here). 
+Kubernetes is an open-source container orchestration tool which was developed by Google in 2014. It is designed as a highly available cluster of computers that are connected to work as a single unit. This level of abstraction allows us to deploy application without thinking much about the machines on which application would run on. *Kubernetes role is to automate the distribution of application containers on computer clusters in an efficient way* (**NOTE**: If you are not familiar with application containers then read about it [here](https://docs.docker.com/get-started/overview/)). 
 
 A typical computer cluster in kubernetes consists of:
 
